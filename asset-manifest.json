@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/googly-docs-clone/static/css/main.04cb6323.css",
+    "main.js": "/googly-docs-clone/static/js/main.81118983.js",
+    "index.html": "/googly-docs-clone/index.html",
+    "main.04cb6323.css.map": "/googly-docs-clone/static/css/main.04cb6323.css.map",
+    "main.81118983.js.map": "/googly-docs-clone/static/js/main.81118983.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.04cb6323.css",
+    "static/js/main.81118983.js"
+  ]
+}
